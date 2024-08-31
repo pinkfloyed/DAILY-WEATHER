@@ -4,7 +4,7 @@
 3. Error Handling and Performance Optimization also evaluated.
    (a) If the fetch request fails (if the city is not found or there is a network issue), an error message is displayed to the user.
    (b) The error container is created only when an error occurs, reducing unnecessary DOM manipulation.
-
+## This website is available on Live at https://pinkfloyed.github.io/DAILY-WEATHER/
 Figure 1 : User logIn Page
 ![login](https://github.com/user-attachments/assets/338d73bf-b802-4f52-aa62-48cdd912937c)
 Figure 2 : User Email address and password to log in to view the daily weather web application
